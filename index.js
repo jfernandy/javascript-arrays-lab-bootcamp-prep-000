@@ -30,4 +30,3 @@ function prependKitten(name) {
   var cats = kittens
   return [name,...cats]
 }
-}
